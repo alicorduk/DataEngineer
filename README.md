@@ -95,7 +95,7 @@ A retail client needs a unified analytics pipeline to consolidate data from:
 - Avg. Transaction Value
 - Sales by Product, Store, Category, Date
 
-*(See screenshots in `/images` folder)*
+
 ## 📊 Power BI Dashboard
 
 
