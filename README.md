@@ -2,6 +2,7 @@
 
 This project demonstrates a complete, **production-grade Azure Data Engineering solution** using the **Medallion Architecture (Bronze → Silver → Gold)**. It simulates a real-world retail client scenario where data is ingested from multiple sources, transformed using PySpark, and visualized using Power BI.
 
+![DIAGRAM]([https://github.com/alicorduk/spotify_SQL/blob/main/spotify_logo1.jpg](https://github.com/alicorduk/DataEngineer/blob/main/Diagram.png)
 ---
 
 ## 📊 Business Requirement
